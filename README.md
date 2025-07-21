@@ -10,7 +10,7 @@
 ### 👨‍💻 About Me:
 - 🎓 Final Year B.Tech (Computer Science) Student  
 - 🌱 Currently learning **Python**, **AI/ML**, and **Data Science Tools**  
-- 💡 Exploring projects that combine **Web Dev + AI**  
+- 💡 Exploring real-world applications of **AI** and **Machine Learning**.  
 - 📫 Reach me at: **binitkachhap6171@gmail.com**
 
 ---

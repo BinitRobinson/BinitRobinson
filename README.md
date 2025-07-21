@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Binit Robinson</h1>
+<h1 align="center">Hi 👋, I'm Binit Robinson Kachhap</h1>
 <h3 align="center">Aspiring Data Scientist | Final Year B.Tech Student | Tech Enthusiast</h3>
 
 <p align="center">

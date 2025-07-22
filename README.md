@@ -56,5 +56,5 @@
 </p>
 
 <p>
-  📧 Email: <strong>binitkachhap6171@gmail.com</strong>
+
 </p>

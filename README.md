@@ -33,8 +33,8 @@
 
 ### 🧠 Coding Profiles & Badges:
 <p>
-  <a href="https://leetcode.com/u/binitrobinson6171/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a><br>
-  <a href="https://www.hackerrank.com/profile/binitkachhap6171"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a><br>
+  <a href="https://leetcode.com/u/binitrobinson6171/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://www.hackerrank.com/profile/binitkachhap6171"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
   <a href="https://www.geeksforgeeks.org/user/binitrobinson6171/"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
 </p>
 
@@ -49,9 +49,12 @@
 
 ### 🌐 Let's Connect:
 <p>
-  <a href="https://github.com/binitrobinson"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white"/></a><br>
-  <a href="https://www.linkedin.com/in/binit-robinson-kachhap-755b882b7/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a><br>
-  <a href="https://x.com/binit_robi38982"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a><br>
-  <a href="https://www.kaggle.com/binitrobinson"><img src="https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white"/></a><br>
+  <a href="https://github.com/binitrobinson"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/binit-robinson-kachhap-755b882b7/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://x.com/binit_robi38982"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://www.kaggle.com/binitrobinson"><img src="https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+</p>
+
+<p>
   📧 Email: <strong>binitkachhap6171@gmail.com</strong>
 </p>

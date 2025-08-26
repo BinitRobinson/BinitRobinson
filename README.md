@@ -41,6 +41,22 @@
 
 ---
 
+### 🏆 Certifications
+
+<p align="center">
+  <a href="https://www.hackerrank.com/certificates/your-certificate-id" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-Python%20(Basic)-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.hackerrank.com/certificates/your-certificate-id" target="_blank">
+    <img src="certificates/python_basic.png" alt="Python Basic Certificate" width="600"/>
+  </a>
+</p>
+
+---
+
 ### 🏆 GitHub Trophies:
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=binitrobinson&theme=onedark&no-frame=true&title=Stars,Commits,Followers,Issues,PullRequest" />

@@ -59,12 +59,12 @@
 
 ### 🏆 GitHub Achievements
 <p align="center">
-  <img src="https://img.shields.io/badge/⭐_Stars-50-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/👨‍💻_Commits-500-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🔀_Pull%20Requests-30-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🐛_Issues-15-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/📦_Repositories-20-purple?style=for-the-badge" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" title="Pull Shark" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" width="80" title="Arctic Code Vault Contributor" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="80" title="Galaxy Brain" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" title="YOLO" />
 </p>
+
 
 ---
 

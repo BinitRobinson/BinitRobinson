@@ -57,9 +57,13 @@
 
 ---
 
-### 🏆 GitHub Trophies:
+### 🏆 GitHub Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=binitrobinson&theme=matrix&no-frame=false&column=3&margin-w=15&margin-h=15" />
+  <img src="https://img.shields.io/badge/⭐_Stars-50-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/👨‍💻_Commits-500-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🔀_Pull%20Requests-30-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🐛_Issues-15-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📦_Repositories-20-purple?style=for-the-badge" />
 </p>
 
 ---

@@ -59,15 +59,12 @@
 
 ### 🏆 GitHub Trophies:
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=binitrobinson&theme=onedark&no-frame=true&title=Stars,Commits,Followers,Issues,PullRequest" />
+  <img src="https://github-profile-trophy.vercel.app/?username=binitrobinson&theme=matrix&no-frame=false&column=3&margin-w=15&margin-h=15" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=binitrobinson&show_icons=true&theme=onedark" alt="GitHub Stats" />
-</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binitrobinson&layout=compact&theme=onedark" alt="Top Languages" />
 </p>

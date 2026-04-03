@@ -77,41 +77,6 @@ me.say_hi()
 
 ---
 
-## 🏆 certifications & achievements
-
-<div align="center">
-
-[![HackerRank Python](https://img.shields.io/badge/✅%20HackerRank-Python%20(Basic)%20Certified-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/your-certificate-id)
-
-</div>
-
----
-
-## 💻 competitive coding
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/binitrobinson6171/)
-&nbsp;
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/binitkachhap6171)
-&nbsp;
-
-</div>
-
----
-
-## 📊 github stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=binitrobinson&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=binitrobinson&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=binitrobinson&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7070&currStreakLabel=58a6ff&sideLabels=58a6ff" />
-
-</div>
-
----
 
 ## 🌐 connect with me
 

@@ -1,79 +1,139 @@
-<h1 align="center">Hi 👋, I'm Binit Robinson Kachhap</h1>
-<h3 align="center">Aspiring Data Scientist | Final Year B.Tech Student | Tech Enthusiast</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=binitrobinson&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+```
+██████╗ ██╗███╗   ██╗██╗████████╗    ██████╗  ██████╗ ██████╗ ██╗███╗   ██╗███████╗ ██████╗ ███╗   ██╗
+██╔══██╗██║████╗  ██║██║╚══██╔══╝    ██╔══██╗██╔═══██╗██╔══██╗██║████╗  ██║██╔════╝██╔═══██╗████╗  ██║
+██████╔╝██║██╔██╗ ██║██║   ██║       ██████╔╝██║   ██║██████╔╝██║██╔██╗ ██║███████╗██║   ██║██╔██╗ ██║
+██╔══██╗██║██║╚██╗██║██║   ██║       ██╔══██╗██║   ██║██╔══██╗██║██║╚██╗██║╚════██║██║   ██║██║╚██╗██║
+██████╔╝██║██║ ╚████║██║   ██║       ██║  ██║╚██████╔╝██████╔╝██║██║ ╚████║███████║╚██████╔╝██║ ╚████║
+╚═════╝ ╚═╝╚═╝  ╚═══╝╚═╝   ╚═╝       ╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚═╝╚═╝  ╚═══╝╚══════╝ ╚═════╝ ╚═╝  ╚═══╝
+```
 
----
+### `Aspiring Data Scientist` · `Final Year B.Tech CSE` · `Builder of Intelligent Systems`
 
-### 👨‍💻 About Me:
-<ul>
-  <li>🎓 Final Year B.Tech (Computer Science) Student</li>
-  <li>🌱 Currently learning <strong>Python</strong>, <strong>AI/ML</strong>, and <strong>Data Science Tools</strong></li>
-  <li>💡 Building intelligent systems using data-driven approaches.</li>
-</ul>
+[![Profile Views](https://komarev.com/ghpvc/?username=binitrobinson&color=0d1117&style=flat-square&label=profile+views)](https://github.com/binitrobinson)
+[![GitHub followers](https://img.shields.io/github/followers/binitrobinson?style=flat-square&color=0d1117&logo=github)](https://github.com/binitrobinson)
 
----
-
-### 🛠️ Languages & Tools:
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
-</p>
+</div>
 
 ---
 
-### 🧠 Coding Profiles & Badges:
-<p align="center">
-  <a href="https://leetcode.com/u/binitrobinson6171/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-  <a href="https://www.hackerrank.com/profile/binitkachhap6171"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
-  <a href="https://www.geeksforgeeks.org/user/binitrobinson6171/"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
-</p>
+## whoami
+
+```python
+class BinitRobinsonKachhap:
+    def __init__(self):
+        self.name        = "Binit Robinson Kachhap"
+        self.role        = "Aspiring Data Scientist"
+        self.education   = "B.Tech Computer Science (Final Year)"
+        self.location    = "India"
+        self.focus       = ["Machine Learning", "Data Science", "AI Systems"]
+        self.currently   = "Building intelligent, data-driven systems"
+        self.contact     = "binitkachhap6171@gmail.com"
+
+    def say_hi(self):
+        print("Thanks for stopping by! Let's build something with data. 🚀")
+
+me = BinitRobinsonKachhap()
+me.say_hi()
+```
 
 ---
 
-### 🏆 Certifications
+## tech stack
 
-<p align="center">
-  <a href="https://www.hackerrank.com/certificates/your-certificate-id" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-Python%20(Basic)-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.hackerrank.com/certificates/your-certificate-id" target="_blank">
-    <img src="certificates/python_basic.png" alt="Python Basic Certificate" width="600"/>
-  </a>
-</p>
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=A8B9CC)
+![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
+
+**AI / ML / Data**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=013243)
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=150458)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)
+![Kaggle](https://img.shields.io/badge/Kaggle-0d1117?style=for-the-badge&logo=kaggle&logoColor=20BEFF)
+![VS Code](https://img.shields.io/badge/VS%20Code-0d1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+
+</div>
 
 ---
 
+## currently learning
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   ▸ Machine Learning algorithms & model evaluation         │
+│   ▸ Deep Learning with TensorFlow / Keras                  │
+│   ▸ Data wrangling & feature engineering with Pandas       │
+│   ▸ Statistical foundations for Data Science               │
+│   ▸ End-to-end ML project pipelines                        │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
 ---
 
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binitrobinson&layout=compact&theme=onedark" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=binitrobinson&theme=onedark" alt="GitHub Streak" />
-</p>
+## certifications
+
+<div align="center">
+
+[![HackerRank Python](https://img.shields.io/badge/HackerRank-Python%20(Basic)%20Certified-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/your-certificate-id)
+
+</div>
 
 ---
 
-### 🌐 Let's Connect:
-<p align="center">
-  <a href="https://github.com/binitrobinson"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/binit-robinson-kachhap-755b882b7/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/binit_robi38982"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://www.kaggle.com/binitrobinson"><img src="https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
-  <a href="mailto:binitkachhap6171@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+## competitive coding
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-binitrobinson6171-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/binitrobinson6171/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-binitkachhap6171-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/binitkachhap6171)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-binitrobinson6171-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/binitrobinson6171/)
+
+</div>
+
+---
+
+## github stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=binitrobinson&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=binitrobinson&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=binitrobinson&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6e6e&currStreakLabel=58a6ff" />
+
+</div>
+
+---
+
+## connect with me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/binitrobinson)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/binit-robinson-kachhap-755b882b7/)
+[![Twitter / X](https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=x&logoColor=white)](https://x.com/binit_robi38982)
+[![Kaggle](https://img.shields.io/badge/Kaggle-0d1117?style=for-the-badge&logo=kaggle&logoColor=20BEFF)](https://www.kaggle.com/binitrobinson)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:binitkachhap6171@gmail.com)
+
+---
+
+*"Data is the new oil. I'm here to refine it."*
+
+</div>

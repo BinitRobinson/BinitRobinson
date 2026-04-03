@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Binit%20Robinson%20Kachhap&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=AI%20%7C%20ML%20%7C%20Data%20Science%20Enthusiast&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,30,12&height=200&section=header&text=Binit%20Robinson%20Kachhap&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=AI%20%7C%20ML%20%7C%20Data%20Science%20Enthusiast&descAlignY=60&descSize=18" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=+B.Tech+Computer+Science+&+Engineering+Graduate+%F0%9F%8E%93;Aspiring+Data+Scientist+%F0%9F%A4%96;Building+Intelligent+Systems+%F0%9F%A7%A0;Turning+Data+into+Decisions+%F0%9F%93%8A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=CS%26E+Graduate+%F0%9F%8E%93;Aspiring+Data+Scientist+%F0%9F%A4%96;Building+Intelligent+Systems+%F0%9F%A7%A0;Turning+Data+into+Decisions+%F0%9F%93%8A)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=binitrobinson&color=58a6ff&style=flat-square&label=profile+views)](https://github.com/binitrobinson)
 &nbsp;
@@ -19,7 +19,7 @@ class BinitRobinsonKachhap:
     def __init__(self):
         self.name        = "Binit Robinson Kachhap"
         self.role        = "Aspiring Data Scientist"
-        self.education   = "B.Tech Computer Science Graduate"
+        self.education   = "Computer Science & Engineering Graduate 🎓"
         self.location    = "India 🇮🇳"
         self.focus       = ["Machine Learning", "Deep Learning", "Data Science"]
         self.currently   = "Building intelligent, data-driven systems"
@@ -131,7 +131,7 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,30,12&height=100&section=footer" width="100%"/>
 
 *⚡ "In God we trust; all others must bring data." — W. Edwards Deming*
 
